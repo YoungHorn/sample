@@ -6,3 +6,6 @@ c=a+b
 
 print("this is a sample")
 print(c)
+
+def mul(a,b):
+    return(a*b)
